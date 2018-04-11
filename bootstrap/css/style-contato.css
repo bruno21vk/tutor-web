@@ -1,0 +1,17 @@
+.banner-contato{
+	width: 70%;
+	margin-right: 15%;
+	margin-left: 15%;
+	height: auto;
+}
+.titulo{
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: rgb(42,112,137);
+	font-family: OCR A Std, monospace;
+	font-size: 25px;
+
+}
